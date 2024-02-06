@@ -1,4 +1,4 @@
-AWS: https://d-awqyscxjemzd.studio.us-east-1.sagemaker.aws/jupyter/default/lab
+AWS: https://d-awqyscxjemzd.studio.us-east-1.sagemaker.aws/jupyter/default/lab  
 Setup the lab
 Notes:
 
